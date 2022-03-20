@@ -1,0 +1,1 @@
+cmd_/home/scott/Desktop/project2/producer_consumer.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/scott/Desktop/project2/producer_consumer.ko /home/scott/Desktop/project2/producer_consumer.o /home/scott/Desktop/project2/producer_consumer.mod.o;  true
