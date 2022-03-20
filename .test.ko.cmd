@@ -1,0 +1,1 @@
+cmd_/home/scott/Desktop/testing/test.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/scott/Desktop/testing/test.ko /home/scott/Desktop/testing/test.o /home/scott/Desktop/testing/test.mod.o;  true
