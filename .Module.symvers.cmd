@@ -1,1 +1,0 @@
-cmd_/home/scott/Desktop/project2/Module.symvers := sed 's/\.ko$$/\.o/' /home/scott/Desktop/project2/modules.order | scripts/mod/modpost -m -a  -o /home/scott/Desktop/project2/Module.symvers -e -i Module.symvers   -T -
